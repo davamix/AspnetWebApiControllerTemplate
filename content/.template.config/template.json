@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Daniel Valcarce",
+    "classifications": [
+        "Web",
+        "WebAPI"
+    ],
+    "identity": "Davamix.AspNetCore.WebApi.Controller",
+    "name": "ASP.NET Core Web API Controller",
+    "shortName": "webapicontroller",
+    "tags": {
+        "language": "C#",
+        "type": "item"
+    },
+    "sourceName": "Samples",
+    "primaryOutputs": [
+        {
+            "path": "SampleController.cs"
+        }
+    ]
+}
